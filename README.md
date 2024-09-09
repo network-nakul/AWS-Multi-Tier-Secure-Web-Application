@@ -63,4 +63,4 @@ The architecture consists of a VPC with multiple subnets distributed across diff
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AWS-Project.git
+   git clone https://github.com/network-nakul/AWS-Project.git
