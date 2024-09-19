@@ -1,7 +1,7 @@
 # AWS Project: Secure Multi-Tier Web Application Deployment
 
 ## Overview
-This project demonstrates the deployment and configuration of a secure multi-tier web application on AWS, ensuring scalability, security, and high availability. The project was carried out as part of a competition focusing on designing and configuring Virtual Private Cloud (VPC) architecture with various AWS services.
+This project demonstrates the deployment and configuration of a secure multi-tier web application on AWS, ensuring scalability, security, and high availability. The project focuses on designing and configuring Virtual Private Cloud (VPC) architecture with various AWS services.
 
 ## Services Used
 - **Amazon VPC**: Configured for secure networking with public and private subnets.
